@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+   <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+    
+    <div class="flex-container" >
+        <div >
+
+            <img src="c:\Users\IYF\Downloads\image_files\dodge 5.jfif" alt="......">
+        </div>
+        <div>
+            <img src="c:\Users\IYF\Downloads\image_files\dodge.jfif" alt="......">
+        </div>
+        <div>
+            <img src="c:\Users\IYF\Downloads\image_files\dodge 1.jfif" alt="......">
+        </div>
+
+    </div>
+   
+</body>
+</html>
